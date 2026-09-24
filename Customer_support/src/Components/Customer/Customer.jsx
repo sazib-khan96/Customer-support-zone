@@ -1,9 +1,9 @@
 import React from "react";
 
-const Customer = ({ customer }) => {
+const Customer = ({ customer,cardHandel }) => {
   const { id, title, description, createdAt,name, status } = customer;
   return (
-    <div className="p-5 shadow-xl rounded-2xl  my-3">
+    <div onClick={()=>cardHandel(customer) } className="p-5 shadow-xl rounded-2xl  my-3">
       <div>
         <h1 className="font-semibold text-xl my-2">{title}</h1>
         <button>hello</button>
