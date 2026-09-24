@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Fix login page issue",
+    "description": "Users are unable to log in with valid credentials.",
+    "name": "John Smith",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2026-09-15"
+  },
+  {
+    "id": 2,
+    "title": "Update homepage design",
+    "description": "Redesign the homepage hero section and improve the overall layout.",
+    "name": "Sarah Johnson",
+    "priority": "medium",
+    "status": "in-progress",
+    "createdAt": "2026-09-16"
+  },
+  {
+    "id": 3,
+    "title": "Add payment gateway",
+    "description": "Integrate Stripe payment gateway into the checkout system.",
+    "name": "Michael Brown",
+    "priority": "high",
+    "status": "in-progress",
+    "createdAt": "2026-09-17"
+  },
+  {
+    "id": 4,
+    "title": "Fix mobile responsiveness",
+    "description": "Several sections are not displaying correctly on mobile devices.",
+    "name": "Emily Davis",
+    "priority": "high",
+    "status": "open",
+    "createdAt": "2026-09-18"
+  },
+  {
+    "id": 5,
+    "title": "Create contact form",
+    "description": "Build a new contact form with validation and email notification.",
+    "name": "David Wilson",
+    "priority": "low",
+    "status": "completed",
+    "createdAt": "2026-09-19"
+  },
+  {
+    "id": 6,
+    "title": "Optimize website speed",
+    "description": "Improve page loading speed by optimizing images, CSS, and JavaScript.",
+    "name": "Olivia Martinez",
+    "priority": "medium",
+    "status": "in-progress",
+    "createdAt": "2026-09-20"
+  },
+  {
+    "id": 7,
+    "title": "Fix broken links",
+    "description": "Find and fix broken internal and external links across the website.",
+    "name": "James Anderson",
+    "priority": "low",
+    "status": "completed",
+    "createdAt": "2026-09-21"
+  },
+  {
+    "id": 8,
+    "title": "Add dark mode",
+    "description": "Implement dark mode support for the dashboard and user interface.",
+    "name": "Sophia Taylor",
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2026-09-22"
+  },
+  {
+    "id": 9,
+    "title": "Database backup setup",
+    "description": "Configure automatic daily backups for the production database.",
+    "name": "Daniel Thomas",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2026-09-23"
+  },
+  {
+    "id": 10,
+    "title": "Update user profile",
+    "description": "Add profile editing functionality including name, email, and profile picture.",
+    "name": "Emma Wilson",
+    "priority": "low",
+    "status": "open",
+    "createdAt": "2026-09-24"
+  }
+]
